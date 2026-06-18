@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# Vector store (generated from PDFs)
+vector_store/
+
+# Conversation memory
+conversations/
+
+# Uploads directory
+uploads/
+
+# PDF documents (knowledge base)
+pdfs/
+*.pdf
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
