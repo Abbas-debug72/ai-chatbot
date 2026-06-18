@@ -1,4 +1,4 @@
-echo "# Knowledge-Based RAG Chatbot
+# Knowledge-Based RAG Chatbot
 
 An intelligent chatbot that uses Retrieval-Augmented Generation (RAG) to answer questions from PDF documents.
 
@@ -35,4 +35,4 @@ An intelligent chatbot that uses Retrieval-Augmented Generation (RAG) to answer 
 - `memory.py` - Conversation memory
 - `ingest_all.py` - One-time PDF ingestion
 - `templates/index.html` - Web chat interface
-  " > README.md
+  
