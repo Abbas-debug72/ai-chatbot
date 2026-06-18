@@ -19,7 +19,7 @@ brain = KnowledgeBrain(
     persist_directory="./vector_store"
 )
 
-api_key = os.getenv("GROQ_API_KEY", "your_api_key")
+api_key = os.getenv("GROQ_API_KEY", "youapikey")
 llm = ChatGroq(
     api_key=api_key,
     model="llama-3.1-8b-instant",
