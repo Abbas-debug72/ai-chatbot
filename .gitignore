@@ -24,9 +24,7 @@ conversations/
 # Uploads directory
 uploads/
 
-# PDF documents (knowledge base)
-pdfs/
-*.pdf
+
 
 # IDE files
 .vscode/
